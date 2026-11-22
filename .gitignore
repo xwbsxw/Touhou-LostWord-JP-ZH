@@ -1,0 +1,26 @@
+# 派生产物（可由脚本重建，不入库）
+out/
+lw_work/
+dumped/
+adtools/
+adtmp/
+dev_cn/
+dev_jp/
+dl/
+
+# 字体（商业字库，请自行从客户端提取）
+*.bin
+!bundles/story/*.bin
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.log

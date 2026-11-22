@@ -1,0 +1,3634 @@
+[
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -9212695309567270367,
+  "field": "m_strfst",
+  "jp": "（なんとなく、思ったんですが……）"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -9212695309567270367,
+  "field": "m_strsnd",
+  "jp": "（あのふたりは、仲がいいってことですよね……）"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -8603816754529664173,
+  "field": "m_strfst",
+  "jp": "全然、構わないです！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -8603816754529664173,
+  "field": "m_strsnd",
+  "jp": "こちらも、またお邪魔させてもらえるなら！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -8011683888375617455,
+  "field": "m_strfst",
+  "jp": "\u001bhといいます。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -8011683888375617455,
+  "field": "m_strsnd",
+  "jp": "よろしくお願いします！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -7905301797930850762,
+  "field": "m_strfst",
+  "jp": "（今日は本当にいろんなことがあったなぁ……！）"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -7905301797930850762,
+  "field": "m_strsnd",
+  "jp": "（でも霊夢たちのおかげで不安は無い。今日はゆっくり休もう）"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -7461367796031521564,
+  "field": "m_strfst",
+  "jp": "魔法で人形を操るんですか？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -7461367796031521564,
+  "field": "m_strsnd",
+  "jp": "カワイイ人形たちですね！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -6477047145273273498,
+  "field": "m_strfst",
+  "jp": "\u001bhです。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -6477047145273273498,
+  "field": "m_strsnd",
+  "jp": "よろしくお願いします、幽々子さん。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -5702473091260844244,
+  "field": "m_strfst",
+  "jp": "こ、こんにちは！ \u001bhと申します！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -5702473091260844244,
+  "field": "m_strsnd",
+  "jp": "（弾幕戦を見るのが楽しかっただなんて、言えない……！）"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -5339123477478762391,
+  "field": "m_strfst",
+  "jp": "妖怪に、神様……！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -5339123477478762391,
+  "field": "m_strsnd",
+  "jp": "幻想郷というのは、そういう場所なのですね？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -5263285430559089339,
+  "field": "m_strfst",
+  "jp": "よろしくお願いします！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -5263285430559089339,
+  "field": "m_strsnd",
+  "jp": "皆さん、はじめまして……ですよね。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -4554548577513341969,
+  "field": "m_strfst",
+  "jp": "\u001bhといいます。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -4554548577513341969,
+  "field": "m_strsnd",
+  "jp": "よろしくお願いします！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -4500803755175124613,
+  "field": "m_strfst",
+  "jp": "緩やかな傾斜で方向感覚が……。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -4500803755175124613,
+  "field": "m_strsnd",
+  "jp": "どの方角も似たような景色ばかり……。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -4432308048207797088,
+  "field": "m_strfst",
+  "jp": "その件なんですけど……。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -4432308048207797088,
+  "field": "m_strsnd",
+  "jp": "出てきた『絵』って……これですかね？？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -4056699384614093875,
+  "field": "m_strfst",
+  "jp": "霊夢……！ 魔理沙……！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -4056699384614093875,
+  "field": "m_strsnd",
+  "jp": "よろしくお願いします！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -2396454458684790869,
+  "field": "m_strfst",
+  "jp": "私の力……と言いますか、むしろ。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -2396454458684790869,
+  "field": "m_strsnd",
+  "jp": "この筆記帳の力、とでも言いましょうか。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -2305714768533408927,
+  "field": "m_strfst",
+  "jp": "うぅっ、なんだかこちらが押しかけ強盗みたい。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -2305714768533408927,
+  "field": "m_strsnd",
+  "jp": "どんどん善悪が逆転していくようです。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -1780109301572114667,
+  "field": "m_strfst",
+  "jp": "はじめまして……！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -1780109301572114667,
+  "field": "m_strsnd",
+  "jp": "な……なんとお呼びすればよろしいでしょうか……！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -1189629301535823498,
+  "field": "m_strfst",
+  "jp": "\u001bhです。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -1189629301535823498,
+  "field": "m_strsnd",
+  "jp": "よろしくお願いします……！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -953285018323299755,
+  "field": "m_strfst",
+  "jp": "登っても登っても、段数が減った気がしないです！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -953285018323299755,
+  "field": "m_strsnd",
+  "jp": "それにしても、桜の綺麗な場所ですね。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -377851850217290543,
+  "field": "m_strfst",
+  "jp": "お、思い出しました！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": -377851850217290543,
+  "field": "m_strsnd",
+  "jp": "\u001bhです！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 1226272257409866622,
+  "field": "m_strfst",
+  "jp": "すーっごく広いですね！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 1226272257409866622,
+  "field": "m_strsnd",
+  "jp": "ここに無い本なんて無いのでは……？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 1431842616283649202,
+  "field": "m_strfst",
+  "jp": "本気と本気の勝負！？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 1431842616283649202,
+  "field": "m_strsnd",
+  "jp": "皆さんは大丈夫なんですか！？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 1560925074637587878,
+  "field": "m_strfst",
+  "jp": "さっき、お茶会でご一緒した……。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 1560925074637587878,
+  "field": "m_strsnd",
+  "jp": "魔法使いのパチュリーさんですね！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 1582893904484883991,
+  "field": "m_strfst",
+  "jp": "大丈夫です！ 覚えていたら話したいくらいです！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 1582893904484883991,
+  "field": "m_strsnd",
+  "jp": "でも、外に関する記憶は、本当に何も覚えていなくて……。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 2126262731230700509,
+  "field": "m_strfst",
+  "jp": "はい……そうなんです。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 2126262731230700509,
+  "field": "m_strsnd",
+  "jp": "いつの間にか、最新の体験が書き記されてるんです。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 2128269596425271970,
+  "field": "m_strfst",
+  "jp": "ありがとうございます！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 2128269596425271970,
+  "field": "m_strsnd",
+  "jp": "今度、ぜひ教えてください！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 4001087004368675802,
+  "field": "m_strfst",
+  "jp": "すごく素敵ですね！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 4001087004368675802,
+  "field": "m_strsnd",
+  "jp": "いつもこうしてお茶会を？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 4135033475328241000,
+  "field": "m_strfst",
+  "jp": "集めた封結晶は、どうしましょう？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 4135033475328241000,
+  "field": "m_strsnd",
+  "jp": "今後、見つけた封結晶は……？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 4403403968011905011,
+  "field": "m_strfst",
+  "jp": "霊夢があまりに自然に飛ぶから……！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 4403403968011905011,
+  "field": "m_strsnd",
+  "jp": "全然、怖くなかった、です……！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 4403971759694147268,
+  "field": "m_strfst",
+  "jp": "かつて、似たようなことがあったんですか？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 4403971759694147268,
+  "field": "m_strsnd",
+  "jp": "春を集める……！？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 6666444578659142414,
+  "field": "m_strfst",
+  "jp": "地上が全然、見えない……！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 6666444578659142414,
+  "field": "m_strsnd",
+  "jp": "すごく綺麗な景色……！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 7022665168647938477,
+  "field": "m_strfst",
+  "jp": "霊夢、魔理沙！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 7022665168647938477,
+  "field": "m_strsnd",
+  "jp": "竹林によくいる人って、その方なのでは……？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 7257214795632785956,
+  "field": "m_strfst",
+  "jp": "こ、こんにちは！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 7257214795632785956,
+  "field": "m_strsnd",
+  "jp": "は、はじめまして？"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 8250776450252324312,
+  "field": "m_strfst",
+  "jp": "記憶があいまいなこと以外は、大丈夫です。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 8250776450252324312,
+  "field": "m_strsnd",
+  "jp": "むしろ、すごく元気です！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 8965814792617424627,
+  "field": "m_strfst",
+  "jp": "わ、私も、本当にごめんなさい！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 8965814792617424627,
+  "field": "m_strsnd",
+  "jp": "よく考えてみれば、不法侵入でした！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 8975663895450105859,
+  "field": "m_strfst",
+  "jp": "こんにちは！"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 8975663895450105859,
+  "field": "m_strsnd",
+  "jp": "\u001bhです。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 9105852347229466369,
+  "field": "m_strfst",
+  "jp": "えーっと……うーんと。"
+ },
+ {
+  "bundle": "main0",
+  "a": "48696ed27f68c8acd4ae91fcfd1ad6cb",
+  "b": "1d2d470e27aa6bc9e5e2a1b272c7e2c6",
+  "path_id": 9105852347229466369,
+  "field": "m_strsnd",
+  "jp": "何だったかな……確か……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -8681980966116567021,
+  "field": "m_strfst",
+  "jp": "どうも気にかかるというか……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -8681980966116567021,
+  "field": "m_strsnd",
+  "jp": "筆記帳に何かあったような……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -8670862296835005286,
+  "field": "m_strfst",
+  "jp": "『言葉』が消えると、それが示す概念を特定できなくなる……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -8670862296835005286,
+  "field": "m_strsnd",
+  "jp": "それならロストワードって、どうやって特定すれば……？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -8154765940769533245,
+  "field": "m_strfst",
+  "jp": "（ここって……）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -8154765940769533245,
+  "field": "m_strsnd",
+  "jp": "（まるで、地下鉄みたい。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -8018906474064719061,
+  "field": "m_strfst",
+  "jp": "……あっ、あった！見て、ここに！！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -8018906474064719061,
+  "field": "m_strsnd",
+  "jp": "……赤い封結晶についての記述が載ってる！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7899017625906197058,
+  "field": "m_strfst",
+  "jp": "（見た目は同じ、性質も同じ。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7899017625906197058,
+  "field": "m_strsnd",
+  "jp": "（それは、本人そのものと何が違うんだろう？）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7524736794479583074,
+  "field": "m_strfst",
+  "jp": "霊夢？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7524736794479583074,
+  "field": "m_strsnd",
+  "jp": "調査の調子はどう？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7385886292074778088,
+  "field": "m_strfst",
+  "jp": "妖精さん……ですね！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7385886292074778088,
+  "field": "m_strsnd",
+  "jp": "私は\u001bhです、よろしくお願いします！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7206170390665227569,
+  "field": "m_strfst",
+  "jp": "(鬼……！)"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7206170390665227569,
+  "field": "m_strsnd",
+  "jp": "(角がカッコいい……！)"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7091054686896583179,
+  "field": "m_strfst",
+  "jp": "いえ！ 大丈夫です……！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7091054686896583179,
+  "field": "m_strsnd",
+  "jp": "（人にはそれぞれ、抱えている過去があるもの……。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7084346809112220979,
+  "field": "m_strfst",
+  "jp": "間違いない、魔法の森の辺境あたりだ。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -7084346809112220979,
+  "field": "m_strsnd",
+  "jp": "たぶん、古道具屋さんの近く……かな。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -6694521273777919474,
+  "field": "m_strfst",
+  "jp": "あっ、いえ！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -6694521273777919474,
+  "field": "m_strsnd",
+  "jp": "（神子さんたちに尋ねても、分かることではないよね。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -6391320991472268845,
+  "field": "m_strfst",
+  "jp": "幻想郷の畑には妖精がいるものなんでしょうか？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -6391320991472268845,
+  "field": "m_strsnd",
+  "jp": "妖精たちはなぜ……コンモリ状態なのでしょう……！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -6372716270751531219,
+  "field": "m_strfst",
+  "jp": "……あっ、いえ、怪我は無いです！ すみません！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -6372716270751531219,
+  "field": "m_strsnd",
+  "jp": "ただ、『複霊』のことが気になってしまって。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -6112702304802175391,
+  "field": "m_strfst",
+  "jp": "（私が不安を抱いたばっかりに……。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -6112702304802175391,
+  "field": "m_strsnd",
+  "jp": "（でも、もし本物が相手だったと思うと……拭いきれない。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5868455887042213283,
+  "field": "m_strfst",
+  "jp": "でも、それは本人そのものと区別がつかないような……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5868455887042213283,
+  "field": "m_strsnd",
+  "jp": "せめて本人が隣にいたら……いや、どっちが本物か分からない。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5509942765778057391,
+  "field": "m_strfst",
+  "jp": "つまり、ここは『学院ぽくなっている』のではない……？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5509942765778057391,
+  "field": "m_strsnd",
+  "jp": "似ているのではなく、実質『本物の学院』？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5460962258814956941,
+  "field": "m_strfst",
+  "jp": "！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5460962258814956941,
+  "field": "m_strsnd",
+  "jp": "それじゃあ、貴方は……！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5349998813047086785,
+  "field": "m_strfst",
+  "jp": "（またしても、似ているけどちょっと違う見た目と声……！）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5349998813047086785,
+  "field": "m_strsnd",
+  "jp": "……霊夢！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5130207955545195499,
+  "field": "m_strfst",
+  "jp": "――『失われた言葉』！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5130207955545195499,
+  "field": "m_strsnd",
+  "jp": "……ロスト……ワード？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5096247406910380433,
+  "field": "m_strfst",
+  "jp": "\u001bhと申します。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5096247406910380433,
+  "field": "m_strsnd",
+  "jp": "仙人様なんですね……カッコいいです！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5089663296811942671,
+  "field": "m_strfst",
+  "jp": "……神子さん、白蓮さん。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -5089663296811942671,
+  "field": "m_strsnd",
+  "jp": "もう一度、『複霊』について教えてもらえないでしょうか。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4908511063629846272,
+  "field": "m_strfst",
+  "jp": "似ている気はするのですが、違っているところも多くて。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4908511063629846272,
+  "field": "m_strsnd",
+  "jp": "でも……はい、やっぱり、とてもよく似ていました。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4904997575387284916,
+  "field": "m_strfst",
+  "jp": "異変って、妖怪が起こすの？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4904997575387284916,
+  "field": "m_strsnd",
+  "jp": "今までの異変も、そんな感じだったの？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4832515681044925842,
+  "field": "m_strfst",
+  "jp": "（封結晶。香霖堂の近くに、よく出てくるのね。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4832515681044925842,
+  "field": "m_strsnd",
+  "jp": "『君たち』……っていうのは？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4652482531739258208,
+  "field": "m_strfst",
+  "jp": "ほしいだけいいですよ！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4652482531739258208,
+  "field": "m_strsnd",
+  "jp": "もちろん、皆のものですから！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4048846805215121024,
+  "field": "m_strfst",
+  "jp": "海のある幻想郷……ということ？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4048846805215121024,
+  "field": "m_strsnd",
+  "jp": "この『海』、実は海ではないとか……？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4009500845529758109,
+  "field": "m_strfst",
+  "jp": "おはよう、霊夢！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -4009500845529758109,
+  "field": "m_strsnd",
+  "jp": "とってもよく眠れた！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -3970150445861669068,
+  "field": "m_strfst",
+  "jp": "異変は終わっていない、むしろこれから……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -3970150445861669068,
+  "field": "m_strsnd",
+  "jp": "これから私は、どうしたらいいのでしょうか？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -3280420662565495566,
+  "field": "m_strfst",
+  "jp": "（はい。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -3280420662565495566,
+  "field": "m_strsnd",
+  "jp": "（『複霊』、でしょうか。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2912506944490166297,
+  "field": "m_strfst",
+  "jp": "式神と似た概念……！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2912506944490166297,
+  "field": "m_strsnd",
+  "jp": "それってもしかして……『複霊』！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2838152072301094966,
+  "field": "m_strfst",
+  "jp": "「赤の結晶は『入口』。青の結晶は『出口』」"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2838152072301094966,
+  "field": "m_strsnd",
+  "jp": "「入口に触れたものは、出口に送られる」"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2688789481326271759,
+  "field": "m_strfst",
+  "jp": "おふたりが複霊を判別できるのは……やっぱり超人だから？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2688789481326271759,
+  "field": "m_strsnd",
+  "jp": "（そもそも、どうして異変の前線が複霊になるんだろう……？）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2568725465490404216,
+  "field": "m_strfst",
+  "jp": "海水を沸騰させて真水を集めるにしても……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2568725465490404216,
+  "field": "m_strsnd",
+  "jp": "労力のほうがかかっちゃうね……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2405013027790707387,
+  "field": "m_strfst",
+  "jp": "り、霖之助さん！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2405013027790707387,
+  "field": "m_strsnd",
+  "jp": "（あっ！ つい呼んじゃった……！）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2088649200241948240,
+  "field": "m_strfst",
+  "jp": "もしかしたら、『複霊』と呼ばれる方々は……"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2088649200241948240,
+  "field": "m_strsnd",
+  "jp": "……別の世界からやってきた？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2086880655997826803,
+  "field": "m_strfst",
+  "jp": "いえ、あの方は……ちょっと姿と声が違うけど、"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -2086880655997826803,
+  "field": "m_strsnd",
+  "jp": "八雲紫さんの式神、八雲藍さん……のハズ！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -1825205633369235344,
+  "field": "m_strfst",
+  "jp": "神子さんでも白蓮さんでもなく……"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -1825205633369235344,
+  "field": "m_strsnd",
+  "jp": "……『私に箱を持たせている』のには、理由がありますね？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -1659306680189379181,
+  "field": "m_strfst",
+  "jp": "う……"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -1659306680189379181,
+  "field": "m_strsnd",
+  "jp": "……うん！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -1524988246182677018,
+  "field": "m_strfst",
+  "jp": "（もちろん、協力します……！）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -1524988246182677018,
+  "field": "m_strsnd",
+  "jp": "（幻想郷を守り、私が故郷へ帰るため、他に方法なんて……！）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -1486956402089023932,
+  "field": "m_strfst",
+  "jp": "一度はロストワードを取り戻した世界だから……"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -1486956402089023932,
+  "field": "m_strsnd",
+  "jp": "……二度と失わないために、私がやる必要があると思います。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -766411744578448440,
+  "field": "m_strfst",
+  "jp": "……それで、今に至ったというわけですね。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -766411744578448440,
+  "field": "m_strsnd",
+  "jp": "隠岐奈さんとは違った角度からのお話を伺えました……！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -739918981007214600,
+  "field": "m_strfst",
+  "jp": "霖之助さん。私は、行きますよ。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -739918981007214600,
+  "field": "m_strsnd",
+  "jp": "たぶん私は、そのためにここへ来たので。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -488866898322389174,
+  "field": "m_strfst",
+  "jp": "それは……私が夢なんて見ない人間だということ……！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -488866898322389174,
+  "field": "m_strsnd",
+  "jp": "逆に言うと、私は地に足がついている！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -459393801320589877,
+  "field": "m_strfst",
+  "jp": "異変の前線が……実体を持つ！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -459393801320589877,
+  "field": "m_strsnd",
+  "jp": "見た目はカワイイ妖精たちだったのに……！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -397725001747853808,
+  "field": "m_strfst",
+  "jp": "それで、私が代わりに行く必要があるのですね。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -397725001747853808,
+  "field": "m_strsnd",
+  "jp": "失われた『役割』を、埋めるために？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -332582334500368061,
+  "field": "m_strfst",
+  "jp": "うっ……！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -332582334500368061,
+  "field": "m_strsnd",
+  "jp": "（霊夢が『腕』さんの届け先じゃないなら、他に誰かがいる？）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -62246121322513655,
+  "field": "m_strfst",
+  "jp": "……あっ！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -62246121322513655,
+  "field": "m_strsnd",
+  "jp": "（ダメだ！ 切り抜けられない……！）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -39611827701766430,
+  "field": "m_strfst",
+  "jp": "こ、ここは、まさか！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": -39611827701766430,
+  "field": "m_strsnd",
+  "jp": "て、ててて、テーマパーク！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 9210009262247191,
+  "field": "m_strfst",
+  "jp": "（確かに私の知っているふたりとは……ちょっと違う。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 9210009262247191,
+  "field": "m_strsnd",
+  "jp": "（霖之助さんの話も長くなりそう。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 30430302373005950,
+  "field": "m_strfst",
+  "jp": "えっ！ で、でも、今は時間が……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 30430302373005950,
+  "field": "m_strsnd",
+  "jp": "急がなきゃ。移動しながら話せるように、工夫しますので……！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 538421830485745748,
+  "field": "m_strfst",
+  "jp": "それにしても、あの魔理沙も『前線の飛び地』だというのは……"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 538421830485745748,
+  "field": "m_strsnd",
+  "jp": "……本当なんでしょうか。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 769570050698149969,
+  "field": "m_strfst",
+  "jp": "す、すみません！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 769570050698149969,
+  "field": "m_strsnd",
+  "jp": "さっきの妖精たちが『異変の前線』だというのは、どういう……？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1069877864300744751,
+  "field": "m_strfst",
+  "jp": "カッコいい服装ですね！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1069877864300744751,
+  "field": "m_strsnd",
+  "jp": "とっても似合ってます！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1225263284151190549,
+  "field": "m_strfst",
+  "jp": "ただいま帰りました～。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1225263284151190549,
+  "field": "m_strsnd",
+  "jp": "……「お帰りなさい」って……えぇ！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1446514982611628928,
+  "field": "m_strfst",
+  "jp": "『複霊』って、どこかへ吸い込まれるように消えていきますよね。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1446514982611628928,
+  "field": "m_strsnd",
+  "jp": "元居たところへ帰っていく……のでしょうか。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1608364021659753507,
+  "field": "m_strfst",
+  "jp": "あれ……？ 覚えてない？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1608364021659753507,
+  "field": "m_strsnd",
+  "jp": "『神社学院』での話を……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1760849283818548062,
+  "field": "m_strfst",
+  "jp": "地獄って、閻魔様に裁かれた罪人が行く、あの……？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 1760849283818548062,
+  "field": "m_strsnd",
+  "jp": "鬼の獄卒から責め苦を受けさせられるという……？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 2048423246353934520,
+  "field": "m_strfst",
+  "jp": "皆！ 状況はどうであれ、畑だよ、畑！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 2048423246353934520,
+  "field": "m_strsnd",
+  "jp": "妖精の群れの隙間から、作物らしき影が見えるよ！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 2300070716884723578,
+  "field": "m_strfst",
+  "jp": "なっ……！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 2300070716884723578,
+  "field": "m_strsnd",
+  "jp": "それなら結局……貴方はいったい……！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 2955459186778087014,
+  "field": "m_strfst",
+  "jp": "名前を失ったのは何か、と力を荒ぶらせているのは何か……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 2955459186778087014,
+  "field": "m_strsnd",
+  "jp": "どちらかを見つければ答えにたどり着ける？？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3003267645711883163,
+  "field": "m_strfst",
+  "jp": "あっ、桶の近くに人影？ ……が見えます！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3003267645711883163,
+  "field": "m_strsnd",
+  "jp": "――って、二本角！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3026393269383700414,
+  "field": "m_strfst",
+  "jp": "（『こことは別の島』……？）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3026393269383700414,
+  "field": "m_strsnd",
+  "jp": "（島がひとつになる前は、いくつかの島に分かれていた……？）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3072412771987800091,
+  "field": "m_strfst",
+  "jp": "（並行世界での冒険……）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3072412771987800091,
+  "field": "m_strsnd",
+  "jp": "（覚えているのは、私だけなのかな……？）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3737548951304109999,
+  "field": "m_strfst",
+  "jp": "ドレミーさん！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3737548951304109999,
+  "field": "m_strsnd",
+  "jp": "ここ……って、どういう場所なんですか！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3995695876359139886,
+  "field": "m_strfst",
+  "jp": "（『封神使い』に『天神使い』。なんだか大げさな気もする。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 3995695876359139886,
+  "field": "m_strsnd",
+  "jp": "おふたりはなぜ、『複霊』が本人じゃないと分かるんですか？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 4252534531300311778,
+  "field": "m_strfst",
+  "jp": "（さとりさんと、こいしちゃんです。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 4252534531300311778,
+  "field": "m_strsnd",
+  "jp": "（たぶん、この世界の住人のハズ。）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 4815306112853145246,
+  "field": "m_strfst",
+  "jp": "まだ、自信はありませんが……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 4815306112853145246,
+  "field": "m_strsnd",
+  "jp": "任せてください！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 4836994558950441430,
+  "field": "m_strfst",
+  "jp": "ま……魔理沙！？ 魔理沙ぁぁああ！！！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 4836994558950441430,
+  "field": "m_strsnd",
+  "jp": "わ、私が……魔理沙を……消しちゃっ……た？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 5127912458041615142,
+  "field": "m_strfst",
+  "jp": "さ……咲夜さん！ 早苗さん！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 5127912458041615142,
+  "field": "m_strsnd",
+  "jp": "消えちゃった……。私が……消しちゃった……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 5128419383096162390,
+  "field": "m_strfst",
+  "jp": "えっ。……えっ？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 5128419383096162390,
+  "field": "m_strsnd",
+  "jp": "（魔理沙！？ でも、どこか……何かが違う？）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 5352079531218678229,
+  "field": "m_strfst",
+  "jp": "まさか、もう既に他の並行世界にも侵食してる……！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 5352079531218678229,
+  "field": "m_strsnd",
+  "jp": "せっかく、異変を解決したのに……！？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 5482459354723316477,
+  "field": "m_strfst",
+  "jp": "『方法』……ここにも封結晶があって、それが使われた？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 5482459354723316477,
+  "field": "m_strsnd",
+  "jp": "『理由』……この幻想郷を元に戻すには、私たちが必要？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 6939937802594936107,
+  "field": "m_strfst",
+  "jp": "咲夜さんと、早苗さん……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 6939937802594936107,
+  "field": "m_strsnd",
+  "jp": "でもやっぱり、姿や声は微妙に違います……。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 6997289587859085435,
+  "field": "m_strfst",
+  "jp": "これも『悪魔の証明』。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 6997289587859085435,
+  "field": "m_strsnd",
+  "jp": "紫さんなら、捜索の難しさを理解してくれそう。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7308762645850158363,
+  "field": "m_strfst",
+  "jp": "「他の並行世界の自分自身と連絡できない」とかっていう。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7308762645850158363,
+  "field": "m_strsnd",
+  "jp": "不安定な世界とは言え、紫さんなら他の世界へ連絡可能では？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7447702413065431784,
+  "field": "m_strfst",
+  "jp": "（幻想郷を訪れて以来……！）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7447702413065431784,
+  "field": "m_strsnd",
+  "jp": "（初めてまともなひとに出会った気がする……！）"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7463653903036407256,
+  "field": "m_strfst",
+  "jp": "大切な友だちを取り戻すためにも、力を合わせていきましょう。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7463653903036407256,
+  "field": "m_strsnd",
+  "jp": "幻想郷の仲間たちを救うには、チルノさんの力も必要です。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7544846207226590412,
+  "field": "m_strfst",
+  "jp": "それって、もしかして……！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7544846207226590412,
+  "field": "m_strsnd",
+  "jp": "ロストワードが何なのか分かった……？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7547337169735093533,
+  "field": "m_strfst",
+  "jp": "すみません、私からも！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 7547337169735093533,
+  "field": "m_strsnd",
+  "jp": "ありがとうございました。とても……楽しかったです！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 8353419012333540328,
+  "field": "m_strfst",
+  "jp": "す、すと～っぷ！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 8353419012333540328,
+  "field": "m_strsnd",
+  "jp": "そもそも、今はどこへ向かっているのです？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 8437940841596733306,
+  "field": "m_strfst",
+  "jp": "料理をするにあたっては、ミニ八卦炉が便利だったね。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 8437940841596733306,
+  "field": "m_strsnd",
+  "jp": "ミニ八卦炉、あそこまで優秀な調理器具だったとは……！"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 8625682184079278787,
+  "field": "m_strfst",
+  "jp": "おはよう、霊夢。"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 8625682184079278787,
+  "field": "m_strsnd",
+  "jp": "どうしたの？ 何かあった？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 8639455574667099354,
+  "field": "m_strfst",
+  "jp": "複製……？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 8639455574667099354,
+  "field": "m_strsnd",
+  "jp": "亡霊……？"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 9013945000134040139,
+  "field": "m_strfst",
+  "jp": "神子さんや白蓮さんほどの方々を邪魔できるなんて……"
+ },
+ {
+  "bundle": "main1",
+  "a": "580339df439f3804b452f0120b0854d0",
+  "b": "f1b3616d93c0177db247fb42ae622dbf",
+  "path_id": 9013945000134040139,
+  "field": "m_strsnd",
+  "jp": "……いったい、誰がそんなことを？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8976742916724070274,
+  "field": "m_strfst",
+  "jp": "ロストワードを今すぐ言い当てられたらいいんだけど……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8976742916724070274,
+  "field": "m_strsnd",
+  "jp": "筆記帳の中をシラミ潰しに探すのは、現実的じゃあないみたい。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8886734296056767379,
+  "field": "m_strfst",
+  "jp": "じゃあ、どこかで赤い封結晶を見つければ……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8886734296056767379,
+  "field": "m_strsnd",
+  "jp": "元の世界へ帰る方法になるかも……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8548571497665366290,
+  "field": "m_strfst",
+  "jp": "たぶん姿が見えても、名前は分からない……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8548571497665366290,
+  "field": "m_strsnd",
+  "jp": "……魔女の『なぜ』が、まだ明らかになってないから。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8524817081700958216,
+  "field": "m_strfst",
+  "jp": "少し熱気を感じますね。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8524817081700958216,
+  "field": "m_strsnd",
+  "jp": "結界で防ぎ切れていない熱が、漏れている……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8459793887187912824,
+  "field": "m_strfst",
+  "jp": "ち、近い……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8459793887187912824,
+  "field": "m_strsnd",
+  "jp": "ものすごく、見られてる……！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8138444270322630997,
+  "field": "m_strfst",
+  "jp": "……うん！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -8138444270322630997,
+  "field": "m_strsnd",
+  "jp": "やり遂げたことがあるし、この後、この世界でも解決されるよ。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7916291365161594431,
+  "field": "m_strfst",
+  "jp": "紫さん……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7916291365161594431,
+  "field": "m_strsnd",
+  "jp": "なんだか、とてもホッとします！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7911559045124938611,
+  "field": "m_strfst",
+  "jp": "……確かに。前回のケースについて、情報が加わってます！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7911559045124938611,
+  "field": "m_strsnd",
+  "jp": "……ちゃんと、私が見聞きした内容のまま記されてます！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7818451208642884367,
+  "field": "m_strfst",
+  "jp": "それは……違うと思う。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7818451208642884367,
+  "field": "m_strsnd",
+  "jp": "美鈴が守っているのはきっと……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7752138014388551381,
+  "field": "m_strfst",
+  "jp": "私も……触ってもいい？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7752138014388551381,
+  "field": "m_strsnd",
+  "jp": "ちょっと、怖いけど……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7639198698250988939,
+  "field": "m_strfst",
+  "jp": "えっ、あっ……えぇ！？ ご、ご迷惑をお掛けしています……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7639198698250988939,
+  "field": "m_strsnd",
+  "jp": "えっと、その……名のある御方とお見受けいたします！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7561975297368343756,
+  "field": "m_strfst",
+  "jp": "この世界の……メイド長の咲夜、さん！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7561975297368343756,
+  "field": "m_strsnd",
+  "jp": "咲夜、さん。\u001bhといいます！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7355257988953692117,
+  "field": "m_strfst",
+  "jp": "はじめまして、\u001bhです。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7355257988953692117,
+  "field": "m_strsnd",
+  "jp": "図書館で働いているんですか？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7084966896373775573,
+  "field": "m_strfst",
+  "jp": "おはよう、霊夢。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -7084966896373775573,
+  "field": "m_strsnd",
+  "jp": "よく眠れた～！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6823180131817514854,
+  "field": "m_strfst",
+  "jp": "この並行世界は、時間の流れが違う……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6823180131817514854,
+  "field": "m_strsnd",
+  "jp": "私たちの世界よりも未来……にあたる並行世界？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6664358571909233804,
+  "field": "m_strfst",
+  "jp": "ありがとうございます！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6664358571909233804,
+  "field": "m_strsnd",
+  "jp": "（人間が飲めないお茶もあるんだ……！）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6655352145183975006,
+  "field": "m_strfst",
+  "jp": "魔理沙？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6655352145183975006,
+  "field": "m_strsnd",
+  "jp": "どうかしたの？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6366847942364467435,
+  "field": "m_strfst",
+  "jp": "そういえば、地下の図書館の迷宮も咲夜さんの能力？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6366847942364467435,
+  "field": "m_strsnd",
+  "jp": "空間を拡張させることができるなら、拡大することもできる？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6347871285534687102,
+  "field": "m_strfst",
+  "jp": "フラン！？ もう大丈夫なの！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6347871285534687102,
+  "field": "m_strsnd",
+  "jp": "弾幕のダメージは、もう回復したの……！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6301505969625389967,
+  "field": "m_strfst",
+  "jp": "あれ？ 霊夢、この前の並行世界のこと覚えてる……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6301505969625389967,
+  "field": "m_strsnd",
+  "jp": "でも、元の世界に帰った時は、忘れてるようだったけど……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6120537949701219014,
+  "field": "m_strfst",
+  "jp": "『失われた言葉』の復元……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6120537949701219014,
+  "field": "m_strsnd",
+  "jp": "ロストワード異変の解決……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6080705564729629234,
+  "field": "m_strfst",
+  "jp": "霊夢、助けてくれてありがとう！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6080705564729629234,
+  "field": "m_strsnd",
+  "jp": "今、フランは何をしたの？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6077296286748197449,
+  "field": "m_strfst",
+  "jp": "もしかして『島』の紫さんの術を応用したんですか？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -6077296286748197449,
+  "field": "m_strsnd",
+  "jp": "前回の世界の紫さんが、近い行動を取っていたような……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -5677111367893667900,
+  "field": "m_strfst",
+  "jp": "まさかジャングルの樹上に、こんなハウスがあるなんて！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -5677111367893667900,
+  "field": "m_strsnd",
+  "jp": "（妖精の家にしては置いてある物が……元は他のひとの家？）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -5482069423383458135,
+  "field": "m_strfst",
+  "jp": "こんにちは、魔理沙！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -5482069423383458135,
+  "field": "m_strsnd",
+  "jp": "魔理沙がここにいる……ということは？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -5410841942458438518,
+  "field": "m_strfst",
+  "jp": "ということは……合計で約千五百年！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -5410841942458438518,
+  "field": "m_strsnd",
+  "jp": "それは、確かに部屋の外が楽しくなるね……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -5392899170101304965,
+  "field": "m_strfst",
+  "jp": "パチュリー……さん……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -5392899170101304965,
+  "field": "m_strsnd",
+  "jp": "迷宮の奥にいたんじゃ……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4705481146125587855,
+  "field": "m_strfst",
+  "jp": "赤い封結晶って、あの時の……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4705481146125587855,
+  "field": "m_strsnd",
+  "jp": "他にもあったんだ……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4637528729669324553,
+  "field": "m_strfst",
+  "jp": "こちらの世界からの発信はできないんですか？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4637528729669324553,
+  "field": "m_strsnd",
+  "jp": "何らかの形で、他の並行世界に認識してもらうには……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4620100246119279493,
+  "field": "m_strfst",
+  "jp": "そんな、頭を上げてください……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4620100246119279493,
+  "field": "m_strsnd",
+  "jp": "大したことはしていません……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4570944201063561140,
+  "field": "m_strfst",
+  "jp": "頼もしい……頼もしすぎます。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4570944201063561140,
+  "field": "m_strsnd",
+  "jp": "（飛行に適した形態へ自由に姿を変えられる！？）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4561631220657554189,
+  "field": "m_strfst",
+  "jp": "……それが、爆炎と高熱の弾幕を放つ存在……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4561631220657554189,
+  "field": "m_strsnd",
+  "jp": "『紅夢の魔女』となった者、なのかもしれない。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4175333677061641676,
+  "field": "m_strfst",
+  "jp": "普段はどうやって移動してるんですか？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -4175333677061641676,
+  "field": "m_strsnd",
+  "jp": "道が分からなくても、何とかなる方法がある？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -3783556870572991754,
+  "field": "m_strfst",
+  "jp": "い、いえいえ！ こちらこそ、なんだかすみません……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -3783556870572991754,
+  "field": "m_strsnd",
+  "jp": "（とっても真面目なひとなんだなあ……！）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2938657817942140250,
+  "field": "m_strfst",
+  "jp": "すごいですね、さすがです！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2938657817942140250,
+  "field": "m_strsnd",
+  "jp": "なんでもできて、早くて……しかも美しい！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2866151290663789321,
+  "field": "m_strfst",
+  "jp": "私の意思で……『赤い封結晶』に触った！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2866151290663789321,
+  "field": "m_strsnd",
+  "jp": "それは確か……なのですね？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2781058367890282476,
+  "field": "m_strfst",
+  "jp": "……紅魔塔にも何か、神様の加護がありそうだね。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2781058367890282476,
+  "field": "m_strsnd",
+  "jp": "……月まで届くほど塔にかけられた、加護……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2600833621162378340,
+  "field": "m_strfst",
+  "jp": "なんとか大丈夫……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2600833621162378340,
+  "field": "m_strsnd",
+  "jp": "皆が守ってくれたから……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2530631822402866188,
+  "field": "m_strfst",
+  "jp": "おはよう、霊夢！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2530631822402866188,
+  "field": "m_strsnd",
+  "jp": "読んでるのは……新聞？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2366980885063257920,
+  "field": "m_strfst",
+  "jp": "それは、いったい……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2366980885063257920,
+  "field": "m_strsnd",
+  "jp": "二つ……教えてください！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2162600964226088745,
+  "field": "m_strfst",
+  "jp": "別の場所で試してみる？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2162600964226088745,
+  "field": "m_strsnd",
+  "jp": "少し移動してみようか？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2154329060007756940,
+  "field": "m_strfst",
+  "jp": "ありがとうございます、閻魔様。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2154329060007756940,
+  "field": "m_strsnd",
+  "jp": "でも、きっと大丈夫です。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2083999334839901551,
+  "field": "m_strfst",
+  "jp": "それに、この熱気……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -2083999334839901551,
+  "field": "m_strsnd",
+  "jp": "一旦、距離を取ろう！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -1684775336149830634,
+  "field": "m_strfst",
+  "jp": "そういえば魔理沙って、普通の人間の魔法使い、だっけ？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -1684775336149830634,
+  "field": "m_strsnd",
+  "jp": "でも、空を飛んだり弾幕を出したりしてるよね？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -1573305047320689713,
+  "field": "m_strfst",
+  "jp": "マジカルレミリアのこと？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -1573305047320689713,
+  "field": "m_strsnd",
+  "jp": "魔法少女のコスチュームのこと？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -1433789417156703799,
+  "field": "m_strfst",
+  "jp": "ちょっと疲れたし……休憩しよっか？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -1433789417156703799,
+  "field": "m_strsnd",
+  "jp": "こういう時は、立ち止まってみるのも手かも？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -1034181681124083806,
+  "field": "m_strfst",
+  "jp": "パチュリー、さんに……会える？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -1034181681124083806,
+  "field": "m_strsnd",
+  "jp": "『紅夢の魔女』も……ちょっと気になる……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -794062494555633886,
+  "field": "m_strfst",
+  "jp": "そっか、月は太陽――恒星の光を反射するから……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -794062494555633886,
+  "field": "m_strsnd",
+  "jp": "月を破壊って規格外だけど……これで、魔理沙の魔法は弱まった？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -753410214058582616,
+  "field": "m_strfst",
+  "jp": "（やっぱり、そうだ。）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -753410214058582616,
+  "field": "m_strsnd",
+  "jp": "（あの時と、同じタイミング……この世界の危機、直前！）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -548348429413242855,
+  "field": "m_strfst",
+  "jp": "なんれすか、こへ？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -548348429413242855,
+  "field": "m_strsnd",
+  "jp": "甘くて、スースーします。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -163083037244677134,
+  "field": "m_strfst",
+  "jp": "（今引き下がっても、ロストワードを取り戻せない……）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -163083037244677134,
+  "field": "m_strsnd",
+  "jp": "（紅夢の魔女の『過去』……『なぜ』を手に入れないと！）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -94592636287172323,
+  "field": "m_strfst",
+  "jp": "図書館を抜けたら……森みたいな場所に出た！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": -94592636287172323,
+  "field": "m_strsnd",
+  "jp": "まるでワープしたような……！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 37191725746854890,
+  "field": "m_strfst",
+  "jp": "（……！ 閻魔様から感じるこのオーラは……お地蔵様！）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 37191725746854890,
+  "field": "m_strsnd",
+  "jp": "（だから、子どもたちの救済に余念がないのかも……！）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 268801643217210308,
+  "field": "m_strfst",
+  "jp": "もしかして、この部屋は地下にある？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 268801643217210308,
+  "field": "m_strsnd",
+  "jp": "私たち、下の階にいるってこと？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 493258304039659356,
+  "field": "m_strfst",
+  "jp": "『ぶんぶんまるしんぶん』？？？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 493258304039659356,
+  "field": "m_strsnd",
+  "jp": "変わった名前の新聞だね。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 570729957601936539,
+  "field": "m_strfst",
+  "jp": "ここは……子ども部屋、だね。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 570729957601936539,
+  "field": "m_strsnd",
+  "jp": "ここも、並行世界なのかな？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 601534007600564743,
+  "field": "m_strfst",
+  "jp": "私も一緒に行ってもいい？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 601534007600564743,
+  "field": "m_strsnd",
+  "jp": "調査を手伝いたい……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 890992981881011059,
+  "field": "m_strfst",
+  "jp": "そうだね！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 890992981881011059,
+  "field": "m_strsnd",
+  "jp": "ありがとうございます！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1189548231084849232,
+  "field": "m_strfst",
+  "jp": "そっか、妖精は自然の化身だから……もしかして、塔を通して？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1189548231084849232,
+  "field": "m_strsnd",
+  "jp": "紅夢の魔女と一緒に、月に来たのかも？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1204332607115239783,
+  "field": "m_strfst",
+  "jp": "何か、手がかりがあればいいんだけど……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1204332607115239783,
+  "field": "m_strsnd",
+  "jp": "近道を示す鍵……みたいなものとか。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1607450759521234511,
+  "field": "m_strfst",
+  "jp": "それって、まるで活火山のようですね！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1607450759521234511,
+  "field": "m_strsnd",
+  "jp": "それは……暴れん坊ってこと？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1724877146690201672,
+  "field": "m_strfst",
+  "jp": "お、お姫様抱っこ……！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1724877146690201672,
+  "field": "m_strsnd",
+  "jp": "な、なんだかドキドキします……！！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1778552753764286783,
+  "field": "m_strfst",
+  "jp": "ちょ、ま、私も今来たばっかり！ 情報が多い！！！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1778552753764286783,
+  "field": "m_strsnd",
+  "jp": "ナイトアリス！？ バイク！？ 砂漠！？ あっつ！！！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1901040113081972626,
+  "field": "m_strfst",
+  "jp": "私はきっと……『何者か』を信じました。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 1901040113081972626,
+  "field": "m_strsnd",
+  "jp": "だからこそ、差し出された赤い封結晶に触れたんです。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2410779058513428833,
+  "field": "m_strfst",
+  "jp": "わ、私！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2410779058513428833,
+  "field": "m_strsnd",
+  "jp": "えっと……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2482351324492227286,
+  "field": "m_strfst",
+  "jp": "はじめまして、フランドールさん。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2482351324492227286,
+  "field": "m_strsnd",
+  "jp": "\u001bhって言います。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2706876171797234207,
+  "field": "m_strfst",
+  "jp": "鬼ごっこ……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2706876171797234207,
+  "field": "m_strsnd",
+  "jp": "妖精メイドたちが、必死に逃げてる……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2990907124097002200,
+  "field": "m_strfst",
+  "jp": "楽しそうだね……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2990907124097002200,
+  "field": "m_strsnd",
+  "jp": "私もワクワクしてきた……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2996969790924273227,
+  "field": "m_strfst",
+  "jp": "こんにちは、美鈴さん。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 2996969790924273227,
+  "field": "m_strsnd",
+  "jp": "この世界の美鈴さんは、はじめましてですね……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3029129711233963904,
+  "field": "m_strfst",
+  "jp": "パチュリーさんが考えてくれたおかげで……今、助かってます。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3029129711233963904,
+  "field": "m_strsnd",
+  "jp": "……ありがとうございます！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3142180291985429473,
+  "field": "m_strfst",
+  "jp": "ミステリアスですね……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3142180291985429473,
+  "field": "m_strsnd",
+  "jp": "謎多き紅魔塔のメイド……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3368167854838399396,
+  "field": "m_strfst",
+  "jp": "それって……もしかして、あの壁際にある変則十字アイテム？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3368167854838399396,
+  "field": "m_strsnd",
+  "jp": "太陽と十字を組み合わせたような飾りがあるよ？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3381366323458547121,
+  "field": "m_strfst",
+  "jp": "あっ！！！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3381366323458547121,
+  "field": "m_strsnd",
+  "jp": "この後、フランちゃんが助けに来てくれるハズなんだけど――"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3381366323458547121,
+  "field": "m_str3rd",
+  "jp": "――まったく目覚める様子が……ない！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3470237293745330870,
+  "field": "m_strfst",
+  "jp": "これってやっぱり、ロストワード異変なのかな……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 3470237293745330870,
+  "field": "m_strsnd",
+  "jp": "もうロストワードが分かっちゃったの！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4029656813202780462,
+  "field": "m_strfst",
+  "jp": "（並行世界に来ると、すべてを思い出す？ なぜだろう……？）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4029656813202780462,
+  "field": "m_strsnd",
+  "jp": "（並行世界でしか、記憶が残らない？ ……覚えておこう）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4263724458279178815,
+  "field": "m_strfst",
+  "jp": "ありがとうございました……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4263724458279178815,
+  "field": "m_strsnd",
+  "jp": "もう下ろしてもらって、大丈夫です。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4369602129910788488,
+  "field": "m_strfst",
+  "jp": "わ、私～！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4369602129910788488,
+  "field": "m_strsnd",
+  "jp": "（私、一番弱そうでは！？）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4369602129910788488,
+  "field": "m_str3rd",
+  "jp": "（でもそんな予感がしていた。）"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4559944290035499296,
+  "field": "m_strfst",
+  "jp": "ありがとう！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4559944290035499296,
+  "field": "m_strsnd",
+  "jp": "私も頑張るね！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4597233402441583857,
+  "field": "m_strfst",
+  "jp": "こ、こんにちは～。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4597233402441583857,
+  "field": "m_strsnd",
+  "jp": "お邪魔しまーす……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4661479953236192088,
+  "field": "m_strfst",
+  "jp": "実は、私もちょうど疲れてきたところ！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 4661479953236192088,
+  "field": "m_strsnd",
+  "jp": "是非、一息入れましょう！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 5299154863715486470,
+  "field": "m_strfst",
+  "jp": "守矢って……早苗が言ってた神社の……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 5299154863715486470,
+  "field": "m_strsnd",
+  "jp": "塔の中に、こんな区画があるなんて……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 5450662553388332048,
+  "field": "m_strfst",
+  "jp": "そっ、そうだった！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 5450662553388332048,
+  "field": "m_strsnd",
+  "jp": "あまりにも夢中になってて……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 5653397797159322745,
+  "field": "m_strfst",
+  "jp": "何も見えない……けど、暖かい闇。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 5653397797159322745,
+  "field": "m_strsnd",
+  "jp": "これは……私、眠ってる！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 5939420772965724734,
+  "field": "m_strfst",
+  "jp": "紅夢の魔女の『思い出』にあった、謎の声の主……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 5939420772965724734,
+  "field": "m_strsnd",
+  "jp": "あの声の正体は……何者なのでしょうか？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6434170560485085643,
+  "field": "m_strfst",
+  "jp": "ごめんね……実は、物語を覚えていなくて……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6434170560485085643,
+  "field": "m_strsnd",
+  "jp": "そういう記憶が、私には無いの……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6519980094551765770,
+  "field": "m_strfst",
+  "jp": "適当に……！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6519980094551765770,
+  "field": "m_strsnd",
+  "jp": "いつの間にか……！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6573111147549068302,
+  "field": "m_strfst",
+  "jp": "『失われた言葉』は、簡単に言葉にできないのでは……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6573111147549068302,
+  "field": "m_strsnd",
+  "jp": "それに、当てずっぽうではダメな原因があるのかも？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6649149531749366271,
+  "field": "m_strfst",
+  "jp": "こ、これは険悪な雰囲気……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6649149531749366271,
+  "field": "m_strsnd",
+  "jp": "霊夢、どうしよう……！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6707910930528705991,
+  "field": "m_strfst",
+  "jp": "霊夢！ 魔女が願いを封じたのって、もしかして……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6707910930528705991,
+  "field": "m_strsnd",
+  "jp": "『封結晶』かもしれない！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6782900064202852961,
+  "field": "m_strfst",
+  "jp": "あっ……もしかして、今の感じからすると……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 6782900064202852961,
+  "field": "m_strsnd",
+  "jp": "私って、すごく……なんというか、ヤバい感じなんでしょうか。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7261184475857180368,
+  "field": "m_strfst",
+  "jp": "もちろん、信じます！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7261184475857180368,
+  "field": "m_strsnd",
+  "jp": "ここまで一緒に来たんですから……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7313014310370127374,
+  "field": "m_strfst",
+  "jp": "えっ、そうなの！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7313014310370127374,
+  "field": "m_strsnd",
+  "jp": "迷宮踏破のコツって、何かある？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7469689928885435021,
+  "field": "m_strfst",
+  "jp": "さようなら、魔理沙。そして、紅魔館の皆さん。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7469689928885435021,
+  "field": "m_strsnd",
+  "jp": "また会いましょう……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7863528869527073676,
+  "field": "m_strfst",
+  "jp": "床が緩やかな坂になってる……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7863528869527073676,
+  "field": "m_strsnd",
+  "jp": "巨大な螺旋を登っているような……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7873221216787064624,
+  "field": "m_strfst",
+  "jp": "今の光景を見るまで、みんなに言うほどの確証がなかったけど……"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 7873221216787064624,
+  "field": "m_strsnd",
+  "jp": "……私はかつて、この状況を体験したことがあるの。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8026508228834119614,
+  "field": "m_strfst",
+  "jp": "青い地上から月へ、か細く紅い塔が伸びてるね。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8026508228834119614,
+  "field": "m_strsnd",
+  "jp": "まるで、地上と月を繋ぐ長い組紐みたい。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8189698844599724578,
+  "field": "m_strfst",
+  "jp": "たしか……『複霊』と呼ぶんだっけ……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8189698844599724578,
+  "field": "m_strsnd",
+  "jp": "どこから来て、どこへ帰っていくんだろう……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8302299966840970757,
+  "field": "m_strfst",
+  "jp": "オアシスの街……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8302299966840970757,
+  "field": "m_strsnd",
+  "jp": "段違いに涼しい……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8323843415316942037,
+  "field": "m_strfst",
+  "jp": "結界を挟んでも、この熱さ……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8323843415316942037,
+  "field": "m_strsnd",
+  "jp": "霊夢！！ あそこに『人影』が……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8444690105972116059,
+  "field": "m_strfst",
+  "jp": "霊夢、アレを見て……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8444690105972116059,
+  "field": "m_strsnd",
+  "jp": "妖精メイドたちがいる！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8897293467410794647,
+  "field": "m_strfst",
+  "jp": "この図書館のどこかにいると思うけど……。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8897293467410794647,
+  "field": "m_strsnd",
+  "jp": "どこにいるか知ってる？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8953091766324501966,
+  "field": "m_strfst",
+  "jp": "失われたのは……紅夢の魔女の、本来の名前で間違い無さそう。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 8953091766324501966,
+  "field": "m_strsnd",
+  "jp": "でも肝心の、紅夢の魔女の正体が分からない……！"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 9009353669142277391,
+  "field": "m_strfst",
+  "jp": "前回の異変の時に話してた、月にある異界……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 9009353669142277391,
+  "field": "m_strsnd",
+  "jp": "幻想郷に似たような、違うような……不思議な感じ。"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 9028059857840880736,
+  "field": "m_strfst",
+  "jp": "『気』……大気のこと？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 9028059857840880736,
+  "field": "m_strsnd",
+  "jp": "空気の状態が、変わる……？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 9077268904059040549,
+  "field": "m_strfst",
+  "jp": "これほどに、霊夢に会いたいと願うひと――"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 9077268904059040549,
+  "field": "m_strsnd",
+  "jp": "――それって、霊夢にとっても大切なひと、だよね！？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 9153793589953937625,
+  "field": "m_strfst",
+  "jp": "さっそく、使って……でも、どうやって？"
+ },
+ {
+  "bundle": "main2",
+  "a": "359f1d36f245cd68b87dbfaf9058ec92",
+  "b": "b4dfaae3c99fce9525f61ceca3bb1bf9",
+  "path_id": 9153793589953937625,
+  "field": "m_strsnd",
+  "jp": "道を開く方法……『お話』ではどうなんでしたっけ？"
+ }
+]
